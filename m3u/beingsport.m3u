@@ -1,0 +1,75 @@
+EXTM3U
+#EXTINF:-1,Bein Sport 1 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_1
+#EXTINF:-1,Bein Sport 2 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_2
+#EXTINF:-1,Bein Sport 3 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_3
+#EXTINF:-1,Bein Sport 4 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_4
+#EXTINF:-1,Bein Sport 5 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_5
+#EXTINF:-1,Bein Sport 6 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_6
+#EXTINF:-1,Bein Sport 7 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_7
+#EXTINF:-1,Bein Sport 8 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_8
+#EXTINF:-1,Bein Sport 9 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_9
+#EXTINF:-1,Bein Sport 10 HD
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_10
+#EXTINF:-1,Bein Sport 1 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_1_low
+#EXTINF:-1,Bein Sport 2 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_2_low
+#EXTINF:-1,Bein Sport 3 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_3_low
+#EXTINF:-1,Bein Sport 4 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_4_low
+#EXTINF:-1,Bein Sport 5 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_5_low
+#EXTINF:-1,Bein Sport 6 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_6_low
+#EXTINF:-1,Bein Sport 7 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_7_low
+#EXTINF:-1,Bein Sport 8 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_8_low
+#EXTINF:-1,Bein Sport 9 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_9_low
+#EXTINF:-1,Bein Sport 10 HD_low
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sport_10_low
+#EXTINF:-1,BeIN SPORTS 1 HD FR
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sports_1_fr
+#EXTINF:-1,BeIN SPORTS 2 HD FR
+rtmp://94.23.207.12:1936/live?idu=daz//bein_sports_2_fr
+#EXTINF:-1,MBC 2
+rtmp://94.23.207.12:1936/live?idu=daz//mbc_2
+#EXTINF:-1,MBC 3
+rtmp://94.23.207.12:1936/live?idu=daz//mbc_3
+#EXTINF:-1,MBC Action
+rtmp://94.23.207.12:1936/live?idu=daz//mbc_action
+#EXTINF:-1,MBC Max
+rtmp://94.23.207.12:1936/live?idu=daz//mbc_max
+#EXTINF:-1,MBC Drama
+rtmp://94.23.207.12:1936/live?idu=daz//mbc_drama
+#EXTINF:-1,MBC 4
+rtmp://94.23.207.12:1936/live?idu=daz//mbc_4
+#EXTINF:-1,ART AFLAM 1
+rtmp://94.23.207.12:1936/live?idu=daz//art_aflam_1
+#EXTINF:-1,ART AFLAM 2
+rtmp://94.23.207.12:1936/live?idu=daz//art_aflam_2
+#EXTINF:-1,Rotana Cinema
+rtmp://94.23.207.12:1936/live?idu=daz//rotana_cinema
+#EXTINF:-1,ZEE  AFLAM
+rtmp://94.23.207.12:1936/live?idu=daz//zee_aflam
+#EXTINF:-1,Top Movies
+rtmp://94.23.207.12:1936/live?idu=daz//top_movies
+#EXTINF:-1,2M Maroc
+rtmp://94.23.207.12:1936/live?idu=daz//2m
+#EXTINF:-1,NatGeo AboDabi
+rtmp://94.23.207.12:1936/live?idu=daz//national_geographic_ad
+#EXTINF:-1,TF1
+rtmp://94.23.207.12:1936/live?idu=daz//tf1
+#EXTINF:-1,M6
+rtmp://94.23.207.12:1936/live?idu=daz//m6

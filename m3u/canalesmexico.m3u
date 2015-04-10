@@ -1,0 +1,51 @@
+EXTM3U
+#EXTINF:-1,MEXICO – AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+ 
+#EXTINF:-1,Mexico – Canal 22 Mexico
+rtmp://$OPT:rtmp-raw=rtmp://origen.cloudapp.net/live/ playpath=envivopc swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/15.html
+ 
+#EXTINF:-1,Mexico – Canal 24 horas
+rtmp://$OPT:rtmp-raw=rtmp://video.stream.mx/8058/ playpath=8058 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/18.html
+ 
+#EXTINF:-1,Mexico – canal44
+rtmp://$OPT:rtmp-raw=rtmp://unirtmp.tulix.tv:1935/canal44/ playpath=myStream.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/16.html
+ 
+#EXTINF:-1,Mexico – canal66
+rtmp://$OPT:rtmp-raw=rtmp://unirtmp.tulix.tv:1935/canal66/ playpath=myStream.sdp swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/17.html
+ 
+#EXTINF:-1,Mexico – CB Television
+rtmp://$OPT:rtmp-raw=rtmp://189.199.90.164:1935/live playpath=myStreamHD.sdp swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.stream2video.tv/getStream/132/1
+ 
+#EXTINF:-1,Mexico – ERH
+rtmp://$OPT:rtmp-raw=rtmp://72.233.78.178/live/ playpath=A swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamsportlive.me/20.html
+ 
+#EXTINF:-1,Mexico – milenio_centro
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+ 
+#EXTINF:-1,MEXICO – MULTIMEDIOS TV
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+ 
+#EXTINF:-1,Mexico – oncetv
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/137/1
+ 
+#EXTINF:-1,Mexico Canal 10
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf
+ 
+#EXTINF:-1,MEXICO CANAL 22
+rtmp://origen.cloudapp.net/live/envivopc
+ 
+#EXTINF:-1,MEXICO CANAL 44
+rtmp://unirtmp.tulix.tv:1935/canal44/myStream.sdp
+ 
+#EXTINF:-1,Mexico Canal 44 Cd. Juarez, Chihuahua
+rtmp://$OPT:rtmp-raw=rtmp://unirtmp.tulix.tv:1935/canal44 playpath=myStream.sdp swfUrl=http://wwitv.com/player/player15.swf live=1
+ 
+#EXTINF:-1,Mexico -Mexiquense
+rtmp://$OPT:rtmp-raw=rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ playpath=broadcast1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.stream2video.tv/getStream/134/1
+ 
+#EXTINF:-1,Mexico Nuestravision
+rtmp://video.stream.mx/8058/8058
+ 
+#EXTINF:-1,Mexico Once Tv
+rtmp://$OPT:rtmp-raw=rtmp://www.oncetvmexicolive.tv:1935/livepkgr2 playpath=int3 swfUrl=http://www.oncetvmexicolive.tv/StrobeMediaPlayback.swf
